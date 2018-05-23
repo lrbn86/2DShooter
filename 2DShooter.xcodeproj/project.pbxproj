@@ -13,10 +13,6 @@
 /* Begin PBXFileReference section */
 		941203E920B53FA70051E11A /* 2DShooter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2DShooter; sourceTree = BUILT_PRODUCTS_DIR; };
 		941203EC20B53FA70051E11A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		941203EF20B53FA70051E11A /* cute_image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cute_image.jpg; sourceTree = "<group>"; };
-		941203F020B53FA70051E11A /* nice_music.ogg */ = {isa = PBXFileReference; lastKnownFileType = file; path = nice_music.ogg; sourceTree = "<group>"; };
-		941203F120B53FA70051E11A /* sansation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sansation.ttf; sourceTree = "<group>"; };
-		941203F220B53FA70051E11A /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,20 +46,8 @@
 			isa = PBXGroup;
 			children = (
 				941203EC20B53FA70051E11A /* main.cpp */,
-				941203EE20B53FA70051E11A /* Resources */,
 			);
 			path = 2DShooter;
-			sourceTree = "<group>";
-		};
-		941203EE20B53FA70051E11A /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				941203EF20B53FA70051E11A /* cute_image.jpg */,
-				941203F020B53FA70051E11A /* nice_music.ogg */,
-				941203F120B53FA70051E11A /* sansation.ttf */,
-				941203F220B53FA70051E11A /* icon.png */,
-			);
-			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
